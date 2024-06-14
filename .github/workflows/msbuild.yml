@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
 env:
-  SOLUTION_FILE_PATH: .
+  SOLUTION_FILE_PATH: 3DVisionActivator.sln
   BUILD_CONFIGURATION: Release
   ARTIFACT_PATH: build/release
 
